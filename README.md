@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @kaskuriam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-kaskuriam/kaskuriam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Hi, I´m Alan!</h1> 
+<ul>
+  <li>🌱 I’m currently learning JavaScript and React</li>
+  
+  <li>💙 I love Web Development, especially for Front End</li>
+  <li>📚 Studying analysis and systems development at Uninter Rio de Janeiro</li>
+  <li>🐶🐱 I love animals</li>
+</ul>
